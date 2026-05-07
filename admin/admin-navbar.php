@@ -4,7 +4,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
 ?>
 <nav class="navbar">
     <div class="nav-container">
-        <a href="dashboard.php" class="nav-logo">☕ Admin Panel</a>
+        <a href="dashboard.php" class="nav-logo">Admin Panel</a>
         <ul class="nav-menu">
             <li>
                 <a href="dashboard.php" 
