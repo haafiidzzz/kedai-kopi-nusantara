@@ -125,7 +125,6 @@ Website fully responsive dengan:
 
 - Pembayaran QRIS bersifat **prototype** — QR code dummy, tidak terhubung ke payment gateway asli
 - Gambar kategori menu diambil dari [Unsplash](https://unsplash.com) (free to use)
-- File `includes/config.php` tidak di-track Git untuk keamanan
 
 ---
 
